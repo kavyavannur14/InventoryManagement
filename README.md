@@ -23,5 +23,4 @@ It is a simple project that monitors the stock quantity. This system has a pleas
 <img src="Screenshots/7.jpg" alt="Screenshot" style="padding:15px; width:40%; height:40%"/><img src="Screenshots/8.jpg" alt="Screenshot" style="padding:15px; width:40%; height:40%"/>
 
 ## Developed By
-- Swarup Kanade [@swarupkanade](https://www.github.com/swarupkanade)
-- Omkar Kanade [@omkarkanade](https://www.github.com/omkarkanade)
+- Kavya Vannur [@kavyavannur](https://www.github.com/kavyavannur14)
